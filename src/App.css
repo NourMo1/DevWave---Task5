@@ -1,0 +1,41 @@
+:root {
+  --primary-color: #615EFC;
+  --secondary-color: #7E8EF1;
+  --third-color: #D1D8C5;
+  --creamy-color: #EEEEEE;
+  --testimonial-color: #F4F6FA;
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f0f0f0;
+}
+::-webkit-scrollbar-thumb {
+  background: #615EFC;
+  border-radius: 0;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #7E8EF1;
+}
+.hero {
+  background: #2b32b2;
+  background: -webkit-linear-gradient(0deg, #2b32b2 0%, #1488cc 100%);
+  background: linear-gradient(0deg, #2b32b2 0%, #1488cc 100%);
+}
+body {
+  font-family: "Montserrat", sans-serif;
+}
+.commitment {
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../src/assets/commitment.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.active {
+  color: white;
+}
+.active > i {
+  color: white;
+}

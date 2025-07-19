@@ -1,0 +1,44 @@
+[
+  {
+    "id": "rev001",
+    "reviewer_name": "Ahmed Said",
+    "rating": 5,
+    "comment_en": "Rice pudding and Qeshtota are unparalleled! Authentic taste and excellent portion size. Always a wonderful experience.",
+    "date": "2024-06-15"
+  },
+  {
+    "id": "rev002",
+    "reviewer_name": "Fatma El Zahraa",
+    "rating": 5,
+    "comment_en": "The best sweet Koshary I've ever tried! Nutella and Oreo are a perfect combination. Highly recommended.",
+    "date": "2024-06-20"
+  },
+  {
+    "id": "rev003",
+    "reviewer_name": "Mohamed Ali",
+    "rating": 4,
+    "comment_en": "Om Ali casseroles are hot and very delicious, especially with nuts and cream. Fast and excellent service.",
+    "date": "2024-06-22"
+  },
+  {
+    "id": "rev004",
+    "reviewer_name": "Laila Mahmoud",
+    "rating": 5,
+    "comment_en": "All items are of high quality and clean. I loved the 'Al-Lo'a' with mango, its taste is unique and distinctive.",
+    "date": "2024-06-25"
+  },
+  {
+    "id": "rev005",
+    "reviewer_name": "Youssef Khaled",
+    "rating": 5,
+    "comment_en": "Always the first choice for desserts after lunch. Unchanging quality and reasonable prices.",
+    "date": "2024-07-01"
+  },
+  {
+    "id": "rev006",
+    "reviewer_name": "Sara Ibrahim",
+    "rating": 5,
+    "comment_en": "The caramel Qeshtota is wonderful and perfectly made. Definitely an experience worth repeating.",
+    "date": "2024-07-05"
+  }
+]
